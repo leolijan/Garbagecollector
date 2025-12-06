@@ -1,0 +1,2 @@
+CC = gcc
+CFLAGS = -g3 -pg -Wall -fprofile-arcs -ftest-coverage
